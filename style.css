@@ -1,0 +1,57 @@
+.heading{
+    font-size: 23px;
+    width: 90%;
+    margin: 0;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px lightskyblue;
+}
+
+.note{
+    font-size: 15px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed, #song_name{
+    font-size: 23px;
+    margin:15px;
+}
+
+#volume{
+    font-size: 23px;
+    margin:15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 165px;
+}
